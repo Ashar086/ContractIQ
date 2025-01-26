@@ -88,7 +88,7 @@ We welcome contributions! If you'd like to contribute to ContractIQ, please foll
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-- Built with ❤️ by [Muhammad Ashar Ishfaq].
+- Built by [Muhammad Ashar Ishfaq].
 - Special thanks to Hack The Feature Hackathon for the opportunity.
 
 ## Contact
