@@ -25,8 +25,8 @@ ContractIQ is an AI-powered platform designed to revolutionize the way businesse
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contractiq.git
-   cd contractiq
+   git clone https://github.com/Ashar086/ContractIQ.git
+   cd ContractIQ
    ```
 
 2. Install the required dependencies:
@@ -88,10 +88,11 @@ We welcome contributions! If you'd like to contribute to ContractIQ, please foll
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-- Built with ❤️ by [Your Name/Team Name].
+- Built with ❤️ by [Muhammad Ashar Ishfaq].
 - Special thanks to Hack The Feature Hackathon for the opportunity.
 
 ## Contact
 For questions or feedback, please reach out:
-- Email: your-email@example.com
-- GitHub: your-username
+- Email: muhammadasharishfaq@gmail.com
+- GitHub: Ashar086
+- Linkedin: https://www.linkedin.com/in/muhammad-ashar-ishfaq/
